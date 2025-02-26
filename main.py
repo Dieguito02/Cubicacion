@@ -1,6 +1,6 @@
-from utils.cubage import Cubage
-from utils.drawing import vconcat_resize
-from utils.sendImage  import sendImg
+from cubage import Cubage
+from drawing import vconcat_resize
+from sendImage  import sendImg
 
 import cv2
 
